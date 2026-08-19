@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <rect width="200" height="200" fill="#03060C"/>
+  <rect x="1" y="1" width="198" height="198" stroke="#121822" stroke-width="1" fill="none"/>
+  <path d="M70 70h60v60H70z" stroke="#1E3A8A" stroke-width="1.2" opacity="0.5"/>
+  <path d="M85 85h30v30H85z" stroke="#2563EB" stroke-width="1" opacity="0.3"/>
+  <text x="100" y="105" font-family="monospace" font-size="10" fill="#485468" text-anchor="middle">no image</text>
+</svg>

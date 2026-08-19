@@ -1,0 +1,18 @@
+# agent/tooling dirs
+.claude/
+.codex/
+.cursor/
+.agents/
+.agent/
+.gemini/
+.hermes/
+imsg/
+
+# python
+__pycache__/
+*.pyc
+dev_server.py
+
+# os
+Thumbs.db
+.DS_Store
